@@ -16,3 +16,12 @@ h1{
 .green{
   color:#128807;
 }
+
+button{
+  color:000088;
+  background-color:#FF9933;
+  border-color:#FF9933;
+  border-width:1px;
+  border-style:"solid";
+  border-radius:1px;
+}
