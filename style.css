@@ -1,5 +1,18 @@
 h1{
   font-family:"Georgia", serif;
   text-align:center;
-  color:orange;
+  color:#FF9933;
+}
+
+.saffron{
+  color:#FF9933;
+}
+.white{
+  color:#FFFFFF;
+}
+.blue{
+  color:000088;
+}
+.green{
+  color:#128807;
 }
