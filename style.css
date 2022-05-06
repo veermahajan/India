@@ -1,7 +1,11 @@
-h1{
+body{
   font-family:"Georgia", serif;
+}
+
+h1{
   text-align:center;
   color:#FF9933;
+  font-weight:900;
 }
 
 .saffron{
