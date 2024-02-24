@@ -1,7 +1,6 @@
 body{
   font-family:"Georgia", serif;
 }
-
 h1{
   text-align:center;
   color:#FF9933;
@@ -10,6 +9,9 @@ h1{
 img{
   display:inline;
   float:left;
+}
+#mainBlock{
+  display:inline;
 }
 .saffron{
   color:#FF9933;
@@ -23,7 +25,6 @@ img{
 .green{
   color:#128807;
 }
-
 button{
   color:#000080;
   background-color:#FF9933;
