@@ -7,7 +7,7 @@ function begin(){
   document.getElementById("mainBlock").innerHTML = "<p>जन-गण-मन अधिनायक जय हे, भारत भाग्य विधाता!<br> पंजाब-सिंधु-गुजरात-मराठा, द्राविड़-उत्कल-बंग<br> विन्ध्य हिमाचल यमुना गंगा, उच्छल जलधि तरंग<br> तव शुभ नामे जागे, तव शुभाशीष मागे<br> गाहे तव जय गाथा।<br>जन-गण-मंगलदायक जय हे, भारत भाग्य विधाता!<br>जय हे! जय हे! जय हे! जय जय जय जय हे!</p>";
   setTimeout(function(){
     alert("You may now sit down.");
-  }, 3000);
+  }, 73000);
   document.getElementById("beginButton").innerHTML = "Next";
   document.getElementById("beginButton").onclick = function(){
     next1();
